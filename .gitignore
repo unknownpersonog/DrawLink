@@ -1,1 +1,3 @@
 buildozer.spec
+.venv
+.buildozer
